@@ -9,3 +9,5 @@ Simply run the example_marlisa.ipynb file to run Marlisa in the CityLearn enviro
 In order to run the main files with the sample agent provided you will need:
 
 * PyTorch 1.1.0
+
+example_marlisa.ipynb was given to us inside the examples folder, all that had to be done was to install the dependencies and change the path of example_marlisa.ipynb.
