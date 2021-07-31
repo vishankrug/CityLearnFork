@@ -1,4 +1,7 @@
 # CityLearnFork
+
+This repository has code for an environment called CityLearn. The main code for this is in citylearn.py. The repo also has a reward_function.py which is modifiable to tune the reward. The program requires a buildings_state_action_space.json as Ann input in order to run. The code is put together in the main.ipynb file, however, for this you simply need to run example_marlisa.ipynb. This repo was meant to be used for a challenge where groups make their own agents, however, CityLearn provided us with an example of their multi-agent model so we are using that.
+
 Simply run the example_marlisa.ipynb file to run Marlisa in the CityLearn environment. Make sure to install all the dependencies: 
 
 * Pandas 0.24.2 or older
